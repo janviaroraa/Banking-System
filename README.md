@@ -11,6 +11,6 @@ Flow of the Website: Home Page > View all Users > Select and View one User > Tra
 
 COMPONENTS USED :
 1. Frontend : HTML, CSS, JavaScript, Bootstrap
-2. Backend : NodeJS, Express JS
+2. Backend : NodeJS, Express JS, React Js
 3. Database : MongoDB
 
