@@ -9,7 +9,7 @@ This is a web application that is used to transfer money between multiple users 
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select receiver > View all Users > View Transfer History.
 
 COMPONENTS USED :
-Frontend : HTML, CSS, JavaScript, Bootstrap
-Backend : NodeJS, Express JS
-Database : MongoDB
+1. Frontend : HTML, CSS, JavaScript, Bootstrap
+2. Backend : NodeJS, Express JS
+3. Database : MongoDB
 
